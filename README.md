@@ -1,0 +1,1 @@
+# universityauth-assetlinks
