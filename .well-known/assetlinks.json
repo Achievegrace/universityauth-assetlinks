@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.spark.chatit",
+      "sha256_cert_fingerprints": [
+        "CA:D7:8B:A0:3E:EB:76:37:76:7F:08:2B:D3:C2:C3:43:04:E4:F5:82:A2:A1:32:71:50:4F:32:67:73:79:AA:39"
+      ]
+    }
+  }
+]
